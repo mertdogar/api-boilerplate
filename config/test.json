@@ -1,0 +1,12 @@
+{
+    "http": {
+        "host": "localhost",
+        "log": false,
+        "allowedOrigins": [
+            "localhost"
+        ],
+        "cookie": {
+          "domain": "localhost"
+        }
+    }
+}

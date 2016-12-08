@@ -1,0 +1,20 @@
+{
+    "http": {
+        "host": "api-dev.boilerplate.com",
+        "port": 3001,
+        "protocol": "http://",
+        "allowedOrigins": [
+            "boilerplate.com"
+        ],
+        "cookie": {
+          "domain": "api-dev.boilerplate.com"
+        },
+        "log": true
+    },
+    "redis": "redis://localhost:6379",
+    "upload_max_file_size": 251658240,
+    "papertrail": {
+        "host": null,
+        "port": null
+    }
+}
